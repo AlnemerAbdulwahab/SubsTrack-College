@@ -3,7 +3,7 @@
 **SubsTrack** is a Subscription Management and Tracking app developed as a graduation project for CSE4101 & CSE4102 at Florida Institute of Technology.
 
 ## Project Website
-[SubsTrack Project Website](https://alnemerabdulwahab.github.io/SubsTrack/)
+[SubsTrack Project Website](https://alnemerabdulwahab.github.io/SubsTrack-College/)
 
 ## Project Details
 - **Project Name:** Subscription Management and Tracking App
